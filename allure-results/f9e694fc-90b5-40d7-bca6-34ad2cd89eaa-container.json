@@ -1,0 +1,1 @@
+{"uuid":"f9e694fc-90b5-40d7-bca6-34ad2cd89eaa","name":"RestAssuredAutomation","children":["3e724241-82de-43cc-9ed1-4887417e4920"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1709540178866,"stop":1709540179165}],"afters":[],"start":1709540178853,"stop":1709540181917}
