@@ -27,7 +27,6 @@ jobs:
 
     - name: Build and test
       run: |
-        cd RestAssured
         mvn clean test
         mvn surefire-report:report
         mvn site:site
